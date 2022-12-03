@@ -1,4 +1,4 @@
 # DIO-REACT
 
-Bootcamp Orange +
+Bootcamp Orange +/
 React + Desafio de projeto (Desenvolvendo a Tela de Cadastro da Plataforma Dio)
