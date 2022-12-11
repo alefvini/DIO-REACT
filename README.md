@@ -5,4 +5,4 @@
 Bootcamp Orange +
 
 Desafio de projeto (Desenvolvendo a Tela de Cadastro da Plataforma Dio) com
-HTML, React, JavaScript e TypeScript
+HTML, React, JavaScript e TypeScript.
